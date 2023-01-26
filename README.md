@@ -2,7 +2,7 @@
  HWID Based Authentication made Simple. Find more here: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
 <div align="center">
- Join the Discord to find more info: <a href="https://discord.com/invite/vQ6US7MGgy">Join Now</a>
+ Find out more and get api access by <a href="https://discord.com/invite/vQ6US7MGgy">joining our Discord</a>
 </div>
 <div align="center">
  Made by <a href="https://github.com/Zer0x1337"> ZER0x1337</a> & <a href="https://github.com/lithiumDevvv"> lithiumDevvv</a>
