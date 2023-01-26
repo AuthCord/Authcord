@@ -1,8 +1,8 @@
+<font size="24">
 <div align="center">
- <font size="24">
  HWID Based Authentication made Simple. Find out more here: <a href="https://authcord.xyz"> authcord.xyz </a>
- </font>
 </div>
+</font>
 
 <div align="center" >
  Examples using Authcord:
