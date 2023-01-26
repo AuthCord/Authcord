@@ -8,7 +8,7 @@
  Examples using Authcord:
 </div>
 
-<br>
+<br><br>
 
 <a href="https://github.com/AuthCord/authcord-cpp"> Using Authcord in CPP: </a>
 ```
