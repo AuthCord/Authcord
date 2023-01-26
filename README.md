@@ -2,7 +2,11 @@
  HWID Based Authentication made Simple. Find out more here: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
 
-<a href="https://github.com/AuthCord/authcord-cpp"> Using Authcord in CPP </a>
+<div align="center" >
+ Examples
+</div>
+
+<a href="https://github.com/AuthCord/authcord-cpp"> Using Authcord in CPP: </a>
 ```
 using namespace Authcord;
 std::string apiKey = XorStr("yourkey");
@@ -43,7 +47,7 @@ int main()
 }
 ```
 
-<a href="https://github.com/AuthCord/authcord-golang"> Using Authcord in Golang </a>
+<a href="https://github.com/AuthCord/authcord-golang"> Using Authcord in Golang: </a>
 ```
 package main
 
