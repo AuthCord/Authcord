@@ -8,11 +8,13 @@
 <br>
 
 <div align="center">
+ Official Documentation: <a href="https://docs.authcord.xyz/">Authcord Docs</a>
+ <br>
+ Recommended Examples:
+</div>
+
+<div align="center">
 <a href="https://github.com/AuthCord/authcord-cpp">Using Authcord in CPP</a>
  
 <a href="https://github.com/AuthCord/authcord-golang">Using Authcord in Golang</a>
- 
-<a href="https://github.com/AuthCord/authcord-python">Using Authcord in Python</a>
-
-<a href="https://docs.authcord.xyz/">Official Documentation</a>
 </div>
