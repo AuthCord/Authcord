@@ -17,7 +17,7 @@
  <a href="https://github.com/AuthCord/authcord-golang">Using Authcord in Golang</a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
  Official Documentation: <a href="https://docs.authcord.xyz/">Authcord Docs</a>
