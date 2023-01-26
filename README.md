@@ -11,9 +11,8 @@
  Official Documentation: <a href="https://docs.authcord.xyz/">Authcord Docs</a>
   <br>
  Recommended Examples:
-  <br>
 </div>
-
+<br>
 <div align="center">
  <a href="https://github.com/AuthCord/authcord-cpp">Using Authcord in CPP</a>
   <br>
