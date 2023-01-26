@@ -1,5 +1,7 @@
-<div align="center" style="font-size:40">
+<div align="center">
+ <font size="24">
  HWID Based Authentication made Simple. Find out more here: <a href="https://authcord.xyz"> authcord.xyz </a>
+ </font>
 </div>
 
 <div align="center" >
