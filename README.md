@@ -1,6 +1,9 @@
 <div align="center">
  HWID Based Authentication made Simple. Our website: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
+
+<br>
+
 <div align="center">
  Find out more and get api access by <a href="https://discord.com/invite/vQ6US7MGgy">joining our Discord</a>
 </div>
