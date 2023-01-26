@@ -1,5 +1,7 @@
 <div align="center">
  HWID Based Authentication made Simple. Find more here: <a href="https://authcord.xyz"> authcord.xyz </a>
+</div>
+<div align="center">
  Join the Discord to get answers live: <a href="https://discord.com/invite/vQ6US7MGgy">join Now</a>
 </div>
 <div align="center">
