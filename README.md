@@ -2,8 +2,9 @@
  HWID Based Authentication made Simple. Find out more here: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
 
-
- Examples
+<div align="center" >
+ Examples using Authcord:
+</div>
 
 <a href="https://github.com/AuthCord/authcord-cpp"> Using Authcord in CPP: </a>
 ```
