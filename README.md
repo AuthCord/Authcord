@@ -1,4 +1,4 @@
-<div align="center" size="24">
+<div align="center">
  HWID Based Authentication made Simple. Our website: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
 <div align="center">
