@@ -1,12 +1,14 @@
-<font size="24">
 <div align="center">
  HWID Based Authentication made Simple. Find out more here: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
-</font>
+
+<br>
 
 <div align="center" >
  Examples using Authcord:
 </div>
+
+<br>
 
 <a href="https://github.com/AuthCord/authcord-cpp"> Using Authcord in CPP: </a>
 ```
