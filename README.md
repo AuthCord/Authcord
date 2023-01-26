@@ -26,5 +26,5 @@
 <br>
 
 <div align="center">
- Official Documentation: <a href="https://docs.authcord.xyz/">Authcord Docs</a>
+ Official Documentation: <a href="https://docs.authcord.xyz/">docs.authcord.xyz</a>
 </div>
