@@ -9,12 +9,13 @@
 
 <div align="center">
  Official Documentation: <a href="https://docs.authcord.xyz/">Authcord Docs</a>
- <br>
+  <br>
  Recommended Examples:
+  <br>
 </div>
 
 <div align="center">
-<a href="https://github.com/AuthCord/authcord-cpp">Using Authcord in CPP</a>
- 
-<a href="https://github.com/AuthCord/authcord-golang">Using Authcord in Golang</a>
+ <a href="https://github.com/AuthCord/authcord-cpp">Using Authcord in CPP</a>
+  <br>
+ <a href="https://github.com/AuthCord/authcord-golang">Using Authcord in Golang</a>
 </div>
