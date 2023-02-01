@@ -1,5 +1,5 @@
 <div align="center">
- HWID/Key Based Authentication made Simple. Our website: <a href="https://authcord.xyz"> authcord.xyz </a>
+ HWID/Key Based Authentication made Simple and Secure. Our website: <a href="https://authcord.xyz"> authcord.xyz </a>
 </div>
 
 <br>
