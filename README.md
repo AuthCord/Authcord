@@ -14,17 +14,5 @@
 <br>
 
 <div align="center">
- Recommended Examples:
-</div>
-<br>
-<div align="center">
- <a href="https://github.com/AuthCord/authcord-cpp">Using Authcord in CPP</a>
-  <br>
- <a href="https://github.com/AuthCord/authcord-golang">Using Authcord in Golang</a>
-</div>
-
-<br>
-
-<div align="center">
  Official Documentation: <a href="https://docs.authcord.xyz/">docs.authcord.xyz</a>
 </div>
